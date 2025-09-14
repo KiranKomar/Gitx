@@ -4,7 +4,8 @@ public class IsPowerOf2 {
 
 	public static void main(String[] args) {
 		int n=8;
-		
+		System.out.println("vegananda dayanada kiar");
+		System.out.println("vegananda dayanada kiar");
 		while(n%2==0&&n!=0)
 		{
 			n=n/2;
