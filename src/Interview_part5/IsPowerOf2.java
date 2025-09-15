@@ -6,6 +6,14 @@ public class IsPowerOf2 {
 		int n=8;
 		System.out.println("vegananda dayanada kiar");
 		System.out.println("vegananda dayanada kiar");
+		
+		
+		
+		System.out.println("vegananda dayanada kiar");
+		System.out.println("vegananda dayanada kiar");
+		
+		
+		System.out.println("this updating by the develop branch");
 		while(n%2==0&&n!=0)
 		{
 			n=n/2;
